@@ -25,6 +25,7 @@
   --gray: #6c757d;
   --gray-dark: #343a40;
   --bordeaux: #5F021F;
+  --hopkins: #002D72;
   --violet: #5d0a3e;
   --primary: #5d0a3e;
   --secondary: #6c757d;
@@ -161,7 +162,7 @@ sup {
 }
 
 a {
-  color: #5F021F;
+  color: #002D72;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6099,7 +6100,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #5F021F !important;
+  background-color: #002D72 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9801,7 +9802,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #5F021F !important;
+  color: #002D72 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
